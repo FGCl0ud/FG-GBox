@@ -1,0 +1,83 @@
+{
+
+    "version": "1.0",
+
+    "sourceName": "FG源",
+
+    "sourceAuthor": "LCR",
+
+    "sourceLinkTitle": "官方仓库",
+
+    "sourceLinkUrl": "https://gitee.com/FGCloud/FG-GBox/blob/master/README.md",
+
+    "sourceImage": "https://raw.githubusercontent.com/1915802708/CICV/master/SH/png/36798B70-6658-4B20-8508-5CC1422E2C32.png?token=AOA43DMA3GLS46YVGOASVM26RRHII",
+
+    "sourceUpdateTime": "", 
+
+    "sourceDescription": "欢迎使用FG源！",
+
+    "appCategories": [
+
+        "工具"
+
+    ],
+
+    "appRepositories": [
+
+        {
+
+            "appType": "ENT_SIGN",
+
+            "appCateIndex": 0,
+
+            "appUpdateTime": "",
+
+            "appName": "GBox",
+
+            "appVersion": "1.3.6",
+
+            "appImage": "https://gbox.run/Public/images/icon.png",
+
+            "appPackage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/GBox_v1.3.6_1122.ipa",
+
+            "appDescription": "GBox 1.3.6版本（需自签）"
+
+        },
+
+        {
+
+            "appType": "SELF_SIGN",
+
+            "appCateIndex": 0,
+
+            "appUpdateTime": "",
+
+            "appName": "证书测试",
+
+            "appVersion": "1.0",
+
+            "appPlist": "https://www.lanzous.com/i7rn4hi",
+
+            "appDescription": "证书测试用，点下载，然后签名，再安装，如果能正常打开，则证明证书有效"
+
+        },
+
+  {
+
+  "appType": "",
+
+  "appCateIndex": ,
+
+  "appUpdateTime": "",
+
+  "appName": "",
+
+  "appVersion": "",
+
+  "appImage": "",
+
+  "appLink": "",
+
+  "appDescription": ""
+
+   },
